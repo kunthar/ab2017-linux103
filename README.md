@@ -13,7 +13,6 @@ Readme
 
 
 
-Erkan Cetinkaya
 
 
 
